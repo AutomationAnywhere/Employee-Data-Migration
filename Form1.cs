@@ -41,7 +41,7 @@ namespace EmployeeList
             {
                 txtFirstName.Text = "Denise";
                 txtLastName.Text = "Peterson";
-                txtEmailId.Text = "DeniseSPeterson@dxyl.us";
+                txtEmailId.Text = "DeniseSPeterson@dxyl.com";
                 txtCity.Text = "Las Vegas";
                 txtZip.Text = "89102";
                 txtJobTitle.Text = "Developer";
@@ -120,8 +120,8 @@ namespace EmployeeList
                 txtFirstName.Text = "Luciano";
                 txtLastName.Text = "Wayne";
                 txtEmailId.Text = "LucianoPWayne@dxyl.com";
-                txtCity.Text = "Mansura";
-                txtZip.Text = "71350";
+                txtCity.Text = "Dover";
+                txtZip.Text = "19901";
                 txtJobTitle.Text = "Scrum Master";
                 txtDepartment.Text = "Engineering";
                 txtManager.Text = "Kris Strouse";
